@@ -8,7 +8,7 @@ mission4 : "승차총승객수와 하차총승객수"를 입력값으로 하여 
 
 mission5 : nofare1.csv파일 내 승차/하차 인원 통계를 기반으로 Linear Regression을 적용하여 scatter plot과 line을 같이 출력, 적용한 결과를 기반으로 총승차 인원이 10000명일때 총하차인원이 몇 명일지 도출.
 
-*교수님 comment
+*교수님 comment ::
 2번의 경우 파라미터들을 너무 구체적으로 작성했다. 3번의 경우 출력값 오류, 4번의 경우 train/test셋 분리가 필요하지 않고 QDA모델이 성능이 높아야 한다. 5번은 good
 
 코드 내 전부 주석 포함.
